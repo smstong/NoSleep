@@ -1,0 +1,2 @@
+NoSleep: *.c
+	gcc -o $@ $^
